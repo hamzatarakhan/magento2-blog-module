@@ -1,7 +1,7 @@
 <?php
 namespace MageMastery\Blog\Model\ResourceModel\Post;
 use MageMastery\Blog\Model\ResourceModel\Post as PostResource;
-
+use MageMastery\Blog\Model\Post;
 class Collection extends \Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection
 {
     
